@@ -1,0 +1,376 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+#navbar article {
+  display: flex;
+  /* justify-content: space-evenly; */
+}
+#navbar article div {
+  margin: 20px;
+}
+#navbar .ar1{
+  margin-top: 20px;
+}
+#navbar .ar2{
+  margin-top: 15px;
+}
+#navbar .ar3{
+  margin-top: 25px;
+}
+#navbar article div a{
+  text-decoration: none;
+  color: black;
+}
+#navbar .bar input{
+  padding: 13px;
+  border-radius: 25px;
+  z-index: 3;
+}
+#navbar .btn{
+  padding: 7px;
+  border-radius: 50%;
+  margin-left: -35px;
+}
+/* <!-- ================================hero section============================================ --> */
+#hero {
+  background-image: url("https://media.buywow.in/public/wow-cms/FREEFACEWASH_DESKTOP_17379838cc.jpg?w=1920&q=75&f=webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 70vh;
+}
+#hero .btn a{
+  padding: 13px  20px 13px 20px;
+  background-color:white;
+  font-size: 27px;
+  margin-left: 335px;
+  text-decoration: none;
+  color: black;
+}
+#hero .btn{
+  padding-top: 327px;
+}
+/* <!-- ========================================second page ============================= --> */
+#second  {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+#second article  {
+  display: flex;
+}
+#second .div1 {
+  padding-top: 14px; 
+  padding-left: 10px;
+}
+/* <!-- ========================================third page ============================= --> */
+#third .h1{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+#third .navbar {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+#third .navbar div a{
+  text-decoration: none;
+  color: black;
+  border: 0.2px solid black;
+  padding: 5px;
+  border-radius: 15px;
+} 
+/* <!-- ========================================third page ============================= --> */
+#menu {
+  display: flex;
+}
+#menu article div img{
+  width: 290px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+#menu .btn2{
+  background-color:rgb(174, 233, 217);
+  width: 140px;
+    margin-left: 50px;
+    border-radius: 5px;
+    
+}
+#menu .btn2 a{
+  text-decoration: none;
+}
+#menu .btn3{
+  background-color:rgb(252, 244, 227) ;
+  width: 140px;
+  margin-left: 200px;
+  margin-top: -18px;
+  border-radius: 5px;
+}
+#menu .btn3 a{
+  padding-top: -10px;
+  text-decoration: none;
+}
+#menu .btn4{
+    margin-top: 25px;
+    /* margin-right: -100px; */
+}
+#menu .btn4 a {
+  text-decoration: none;
+  margin-left: -290px;
+  color: black;
+}
+#menu .btn5 a{
+  text-decoration: none;
+  margin-left: -290px;
+  color: black;
+}
+#menu .btn6 a{
+  text-decoration: none;
+  margin-left: -290px;
+  color:grey ;
+  font-size: 14px;
+}
+#menu .btn7 a{
+  text-decoration: none;
+  margin-left: -290px;
+  color: gray;
+}
+#menu .btn8{
+  /* margin-top: 20px; */
+  margin-left: -290px;
+  background-color: rgb(246, 247, 228);
+  width: 115px;
+  border-radius: 5px;
+}
+#menu .btn8 a{
+  text-decoration: none;
+  color: black;
+}
+#menu .btn9{
+  margin-left:-175px ;
+  background-color: rgb(225, 250, 236);
+  width: 113px;
+  margin-top: -17px;
+  border-radius: 5px;
+}
+#menu .btn9 a{
+  text-decoration: none ;
+}
+#menu .btn10{
+  margin-left: -290px;
+  color: black;
+}
+#menu .btn10 a{
+  text-decoration: none;
+  color: black;
+}
+#menu .btn11{
+  margin-left: -290px;
+  color: black;
+}
+#menu .btn11 a{
+  text-decoration: none;
+  font-size: large;
+  color: black;
+}
+#menu .btn12{
+  margin-left: -290px;
+  color: black;
+}
+#menu .btn12 a{
+  text-decoration: none;
+  color: gray;
+}#menu .btn13{
+  margin-left: -290px;
+
+}
+#menu .btn13 a{
+  text-decoration: none;
+  color: gray;
+}
+#menu .btn14{
+  margin-left: -270px;
+  background-color: rgb(225, 250, 236);
+  width: 130px;
+  border-radius: 5px;
+}
+#menu .btn14 a{
+  text-decoration: none;
+  color: black;
+}
+#menu .btn15 {
+  margin-left: -135px;
+  background-color:rgb(252, 244, 227) ;
+  width: 110px;
+  border-radius: 5px;
+  margin-top: -20px;
+}
+#menu .btn15 a{
+  text-decoration: none;
+  color: black;
+  margin-bottom: -20px;
+}
+#menu .btn16 {
+  margin-left: -272px;
+}
+#menu .btn16 a{
+  text-decoration: none;
+  color: black;
+}
+#menu .btn17{
+  margin-left: -270px;
+}
+#menu .btn17 a{
+  text-decoration: none;
+  color: black;
+}
+#menu .btn18{
+  margin-left: 60px ;
+  background-color: rgb(225, 250, 236);
+  border-radius: 5px;
+  width: 130px;
+  margin-top: -60px;
+  font-size: small;
+}
+#menu .btn18 a{
+  text-decoration: none;
+  color: black;  
+}
+#menu .btn19{
+  margin-left: 190px;
+  /* padding-top: -160px; */
+  align-items: center;
+}
+#menu .btn19 a{
+  text-decoration: none;
+  color: black;
+  background-color:rgb(252, 244, 227) ;
+  font-size: small;
+  width: 130px;
+  border-radius: 5px;
+}
+#menu .btn19{
+  margin-top: -40px;
+}
+#menu .btn20{
+    margin-left: 60px;
+}
+#menu .btn20 a{
+  text-decoration: none;
+  color: black;
+  font-size: large;
+}
+#menu .btn21{
+  margin-left: 60px;
+}
+#menu .btn21 a{
+  text-decoration: none;
+  color: black;
+}
+#menu .btn22{
+  width: 300px;
+  font-size: 15px;
+  margin-left: 60px;
+}
+#menu .btn22 a{
+  text-decoration: none;
+  color: grey;
+}
+#menu .btn22{
+  margin-left : -274px;
+  margin-top: 10px;
+}
+#menu .btn23 {
+  margin-left: 50px;
+  margin-top: -40px;
+  width: 300px;
+}
+#menu .btn23 a{
+  text-decoration: none;
+  width: 500px;
+  color: grey;
+}
+/* #menu .star{
+   
+} */
+
+.btn24 article button  {
+  background-color: 400px;
+}
+#menu .btn24{
+    background-color: rgb(230, 106, 34);
+    /* text-transform: uppercase; */
+    width: 90px;
+    display: flex;
+    border-radius: 9px;
+    margin: 50px;
+    margin-left: -370px;
+    height: 40px;
+    align-items: center;
+    font-size: larger;
+}
+#menu .btn24 a {
+  text-decoration: none;
+  color: rgb(243, 241, 241);
+}
+.h1 article{
+  margin-left: 580px;
+  color: black;
+  font-size: x-large;
+}
+.onion article {
+  display: flex;
+  margin-left: 50px;
+  padding-top: 30px;
+}
+.vitmin article{
+  display: flex;
+  margin-left: 50px;
+  padding-top: 30px;
+}
+#buysection {
+  display: flex;
+}
+#buysection .buy1 img {
+height: 150px;
+width: 600px;
+border-radius: 10px;
+padding-right: -100px;
+ margin: 36px;
+}
+#buysection .buy2  img{
+  height: 150px;
+width: 600px;
+border-radius: 10px;
+ margin: 50px;
+ margin-top: 35px;
+ }
+  .h2{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+#fourth article{
+  display: flex;
+}
+#fourth article div img{
+  height: 220px;
+  width: 200px;
+   /* margin-left: 50px; */
+   padding: 5px;
+   margin-top: 50px;
+   padding-left: 30px;
+}
+#fourth .pic{
+  margin-left: 90px;
+}
+#fourth .pic2{
+}
